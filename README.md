@@ -17,8 +17,8 @@ _Focus: The "Tensor Mindset," Autograd, and the mechanics of training._
 | **01** | **[Tensors & Ops](./PyTorch_Foundations/Day_01-02_Tensors_Ops)**                | ✅ Done    | _Shapes, Creation, Device Management_          |
 | **02** | **[Broadcasting & Vectorization](./PyTorch_Foundations/Day_01-02_Tensors_Ops)** | ✅ Done    | _Batch Dimension, Matrix Mult vs Element-wise_ |
 | **03** | **[Autograd](./PyTorch_Foundations/Day_03_Autograd)**                           | ✅ Done    | _The Computational Graph (DAG), `.backward()`_ |
-| **04**     | **[nn.Module Basics](./PyTorch_Foundations/Day_04_nn_Module_Basics/)**          | ✅ Done    | _Layers, Parameters, Model Class Structure_    |
-| 05     | Forward/Backward + Loss                                                         | ⏳ Planned | _Loss Functions, Gradient Flow_                |
+| **04**     | **[nn.Module Basics](./PyTorch_Foundations/Day_04_nn_Module_Basics/)**      | ✅ Done    | _Layers, Parameters, Model Class Structure_    |
+| **05**     | **[Forward/Backward + Loss](./PyTorch_Foundations/Day_05_forward_backward_loss/)**                                                         | ✅ Done | _Loss Functions, Gradient Flow_                |
 | 06     | Training Loop                                                                   | ⏳ Planned | _Manual Optimization, Zero-Grad patterns_      |
 | 07     | Optimizers (SGD, Adam)                                                          | ⏳ Planned | _Learning Rates, Momentum_                     |
 | 08     | Overfitting & Generalization                                                    | ⏳ Planned | _Dropout, Regularization, Train/Val Split_     |
